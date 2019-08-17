@@ -1,0 +1,5 @@
+Licença:${N_LICENCA}
+
+Atenção a esta lincença!
+
+Tenha um bom dia. 
